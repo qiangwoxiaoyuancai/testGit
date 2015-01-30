@@ -16,6 +16,7 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    NSLog(@"fork");
     return YES;
 }
 
